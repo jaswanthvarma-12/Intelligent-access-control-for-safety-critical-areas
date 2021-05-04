@@ -17,25 +17,9 @@ CHAPTER 1: INTRODUCTION  <br/>
 CHAPTER 2: LITERATURE SURVEY  <br/>
 CHAPTER 3: METHODOLOGY AND DISCUSSION  <br/>
 3.1. OPEN CV AND HAAR CASCADE  <br/>
-CHAPTER 4: PROPOSED SYSTEM  <br/>
-CHAPTER 5: EXPERIMENTAL RESULTS  <br/>
-5.1. IMAGES IN CLOUD DATABASE <br/>
-5.2 FACE RECOGNITION  <br/>
-REFERENCES  <br/>
-APPENDIX  <br/>
-LIST OF FIGURES & TABLES
-FIG NO. FIGURE NAME PAGE NO. <br/>
-4.1 Image storage in
-Cloud database
-4 <br/>
-4.2 Face recognition
-using OpenCV
-4 <br/>
-TABLE NO. TABLE NAME .
-3.1 <br/>
-Computer Vision in various fields
-and its applications
-<br/>
+CHAPTER 4: EXPERIMENTAL RESULTS <br/>
+
+
 
 ## CHAPTER I
 INTRODUCTION
