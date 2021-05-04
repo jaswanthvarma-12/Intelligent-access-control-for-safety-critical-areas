@@ -15,27 +15,27 @@ CHAPTER 1: INTRODUCTION 1 <br/>
 1.1. PROBLEM STATEMENT 1 <br/>
 1.2. OBJECTIVES 1 <br/>
 CHAPTER 2: LITERATURE SURVEY 2 <br/>
-CHAPTER 3: METHODOLOGY AND DISCUSSION 3
-3.1. OPEN CV AND HAAR CASCADE 3
-CHAPTER 4: PROPOSED SYSTEM 4
-CHAPTER 5: EXPERIMENTAL RESULTS 5
-5.1. IMAGES IN CLOUD DATABASE
-5.2 FACE RECOGNITION 5
-REFERENCES 6
-APPENDIX 7
+CHAPTER 3: METHODOLOGY AND DISCUSSION 3 <br/>
+3.1. OPEN CV AND HAAR CASCADE 3 <br/>
+CHAPTER 4: PROPOSED SYSTEM 4 <br/>
+CHAPTER 5: EXPERIMENTAL RESULTS 5 <br/>
+5.1. IMAGES IN CLOUD DATABASE <br/>
+5.2 FACE RECOGNITION 5 <br/>
+REFERENCES 6 <br/>
+APPENDIX 7 <br/>
 LIST OF FIGURES & TABLES
-FIG NO. FIGURE NAME PAGE NO.
+FIG NO. FIGURE NAME PAGE NO. <br/>
 4.1 Image storage in
 Cloud database
-4
+4 <br/>
 4.2 Face recognition
 using OpenCV
-4
+4 <br/>
 TABLE NO. TABLE NAME PAGE NO.
-3.1
+3.1 <br/>
 Computer Vision in various fields
 and its applications
-4
+4 <br/>
 
 ## CHAPTER I
 INTRODUCTION
@@ -46,14 +46,14 @@ the power of data collection, AI algorithm and networks.
 This report is organized as follows: Section 1 gives a brief introduction, describes the problem
 statement and states the objective of the tool. In Section 2, the literature survey is presented
 followed by Section 3 which deals with the Methodology used in the project. In Section 4, the
-result has been presented and the report is concluded in section 5.
-## 1.1. PROBLEM STATEMENT
+result has been presented and the report is concluded in section 5. <br/>
+1.1. PROBLEM STATEMENT
 In the current world, there are a very few detection algorithms that help in detecting safety requirements
 in industry. There is a need to build a recognition tool that can help in analyzing the security
 required with ease, without the involvement of physical presence of any supervisor. This tool
 provides such an interface between the system and the user, thus making it easier to understand the
-processes and files of the system.
-## 1.2. OBJECTIVES
+processes and files of the system. <br/>
+1.2. OBJECTIVES
  Identifying people who are having safety equipment. People need to have proper
 safety equipment in some areas of work so as to avoid any fatal accidents.
  Verifying the safety equipment with the trained models of the cloud. By
@@ -61,7 +61,7 @@ verifying the safety equipment with the trained model of the cloud, the running
 processes can be classified into safe and unsafe processes.
 
 ## CHAPTER II
-LITERATURE SURVEY
+LITERATURE SURVEY <br/>
 The Internet of Things is a novel paradigm shift in IT arena. The phrase “Internet of Things” which is also
 shortly well-known as IoT is coined from the two words i.e. the first word is “Internet” and the second
 word is “Things”. The Internet is a global system of interconnected computer networks that use the
@@ -88,34 +88,32 @@ animals—cow, calf, dog, pigeons, rabbit etc., plants—mango tree, jasmine, ba
 nonliving things like chair, fridge, tube light, curtain, plate etc. any home appliances or industry apparatus.
 So at this point, things are real objects in this physical or material world
 
-##CHAPTER III
-METHODOLOGY AND DISCUSSION
-3.1. OpenCV and Haar Cascade
+## CHAPTER III
+METHODOLOGY AND DISCUSSION <br/>
+3.1. OpenCV and Haar Cascade <br/>
 OpenCV is a cross platform library using which we can develop real-time computer vision
 applications. It mainly focuses on image processing, video capture, and analysis including features
 like face recognition and object detection.
 Computer Vision can be defined as a discipline that explains how to reconstruct, interrupt, and
 understand a 3D scene from its 2D images, in terms of the properties of the structure present in the
 scene. It deals with modelling and replicating human vision using computer software and
-hardware.
+hardware. <br/>
 Haar Cascade is an Object Detection Algorithm used to identify faces in an image or a real-time
 video. The algorithm uses edge or line detection features proposed by Viola and Jones in their
-research paper.
-Table 3.1: Computer Vision in various fields and its applications
-S.NO.
-FIELD
-APPLICATION
-1. Image processing Focuses on image manipulation.
-2. Pattern recognition Explains various techniques to classify patterns.
-3. Photogrammy Concerned with obtaining accurate measurements from images
+research paper. <br/>
+Table 3.1: Computer Vision in various fields and its applications<br/>
 
-##CHAPTER IV
-EXPERIMENTAL RESULTS
-4.1. OBJECT STORAGE IN CLOUD DATABASE
+1. Image processing Focuses on image manipulation. <br/>
+2. Pattern recognition Explains various techniques to classify patterns. <br/>
+3. Photogrammy Concerned with obtaining accurate measurements from images <br/>
+
+## CHAPTER IV
+EXPERIMENTAL RESULTS <br/>
+4.1. OBJECT STORAGE IN CLOUD DATABASE <br/>
 Figure 4.1: Images in the cloud database
-4.2. FACE RECOGNITION
+4.2. FACE RECOGNITION <br/>
 Figure 4.2: Face recognized by the webcam using OpenCV
-REFERENCES
+## REFERENCES 
 [5] Aggarwal, R. and Lal Das, M. (2012) RFID Security in the Context of “Internet of Things”. First
 International Conference on Security of Internet of Things, Kerala, 17-19 August 2012, 51-56.
 http://dx.doi.org/10.1145/2490428.2490435
