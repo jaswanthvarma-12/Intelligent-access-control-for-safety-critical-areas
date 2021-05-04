@@ -1,6 +1,6 @@
 # intelligent-access-control-for-safety-critical-areas
 
-##ABSTRACT
+## ABSTRACT
 In some industries, it is necessary for workers to wear safety helmet and shoes while working. So
 to check whether the workers are taking safety precautions or not, we are proposing this system.
 We can train our classifier to identify safety helmet and shoes with IBM cloud. There will be video
@@ -37,7 +37,7 @@ Computer Vision in various fields
 and its applications
 4
 
-##CHAPTER I
+## CHAPTER I
 INTRODUCTION
 Internet of Things (IoT) is a network of physical objects or people called “things” that are
 embedded with software, electronics, network, and sensors that allows these objects to collect
@@ -47,20 +47,20 @@ This report is organized as follows: Section 1 gives a brief introduction, descr
 statement and states the objective of the tool. In Section 2, the literature survey is presented
 followed by Section 3 which deals with the Methodology used in the project. In Section 4, the
 result has been presented and the report is concluded in section 5.
-##1.1. PROBLEM STATEMENT
+## 1.1. PROBLEM STATEMENT
 In the current world, there are a very few detection algorithms that help in detecting safety requirements
 in industry. There is a need to build a recognition tool that can help in analyzing the security
 required with ease, without the involvement of physical presence of any supervisor. This tool
 provides such an interface between the system and the user, thus making it easier to understand the
 processes and files of the system.
-##1.2. OBJECTIVES
+## 1.2. OBJECTIVES
  Identifying people who are having safety equipment. People need to have proper
 safety equipment in some areas of work so as to avoid any fatal accidents.
  Verifying the safety equipment with the trained models of the cloud. By
 verifying the safety equipment with the trained model of the cloud, the running
 processes can be classified into safe and unsafe processes.
 
-##CHAPTER II
+## CHAPTER II
 LITERATURE SURVEY
 The Internet of Things is a novel paradigm shift in IT arena. The phrase “Internet of Things” which is also
 shortly well-known as IoT is coined from the two words i.e. the first word is “Internet” and the second
