@@ -108,4 +108,4 @@ http://dx.doi.org/10.1038/440402a
 [9] Gershenfeld, N., Krikorian, R. and Cohen, D. (2004) The Internet of Things. Scientific American,
 291, 76-81. http://dx.doi.org/10.1038/scientificamerican1004-76
 [10] Lombreglia, R. (2010) The Internet of Things, Boston Globe. Retrieved October.
-[11] Reinhardt, A. (2004) A Machine-to-Machine Internet of Things.
+
