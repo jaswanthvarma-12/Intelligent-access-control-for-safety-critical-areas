@@ -9,7 +9,7 @@ is present, we can take a picture at that moment and send it to IBM cloud to che
 person is wearing a helmet or not. If the person is wearing a helmet, we can give him access by
 opening the door. Else we can restrict his entry by keeping the door closed. We can even warn the
 person to take safety precautions using voice commands.
-CONTENTS
+###CONTENTS
 PG. NO
 CHAPTER 1: INTRODUCTION 1
 1.1. PROBLEM STATEMENT 1
