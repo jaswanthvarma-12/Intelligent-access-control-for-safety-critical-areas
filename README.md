@@ -11,10 +11,10 @@ opening the door. Else we can restrict his entry by keeping the door closed. We 
 person to take safety precautions using voice commands.
 ### CONTENTS
 PG. NO
-CHAPTER 1: INTRODUCTION 1
-1.1. PROBLEM STATEMENT 1
-1.2. OBJECTIVES 1
-CHAPTER 2: LITERATURE SURVEY 2
+CHAPTER 1: INTRODUCTION 1 <br/>
+1.1. PROBLEM STATEMENT 1 <br/>
+1.2. OBJECTIVES 1 <br/>
+CHAPTER 2: LITERATURE SURVEY 2 <br/>
 CHAPTER 3: METHODOLOGY AND DISCUSSION 3
 3.1. OPEN CV AND HAAR CASCADE 3
 CHAPTER 4: PROPOSED SYSTEM 4
