@@ -11,18 +11,18 @@ opening the door. Else we can restrict his entry by keeping the door closed. We 
 person to take safety precautions using voice commands.
 ### CONTENTS
 PG. NO
-CHAPTER 1: INTRODUCTION 1 <br/>
-1.1. PROBLEM STATEMENT 1 <br/>
-1.2. OBJECTIVES 1 <br/>
-CHAPTER 2: LITERATURE SURVEY 2 <br/>
-CHAPTER 3: METHODOLOGY AND DISCUSSION 3 <br/>
-3.1. OPEN CV AND HAAR CASCADE 3 <br/>
-CHAPTER 4: PROPOSED SYSTEM 4 <br/>
-CHAPTER 5: EXPERIMENTAL RESULTS 5 <br/>
+CHAPTER 1: INTRODUCTION  <br/>
+1.1. PROBLEM STATEMENT  <br/>
+1.2. OBJECTIVES  <br/>
+CHAPTER 2: LITERATURE SURVEY  <br/>
+CHAPTER 3: METHODOLOGY AND DISCUSSION  <br/>
+3.1. OPEN CV AND HAAR CASCADE  <br/>
+CHAPTER 4: PROPOSED SYSTEM  <br/>
+CHAPTER 5: EXPERIMENTAL RESULTS  <br/>
 5.1. IMAGES IN CLOUD DATABASE <br/>
-5.2 FACE RECOGNITION 5 <br/>
-REFERENCES 6 <br/>
-APPENDIX 7 <br/>
+5.2 FACE RECOGNITION  <br/>
+REFERENCES  <br/>
+APPENDIX  <br/>
 LIST OF FIGURES & TABLES
 FIG NO. FIGURE NAME PAGE NO. <br/>
 4.1 Image storage in
@@ -31,11 +31,11 @@ Cloud database
 4.2 Face recognition
 using OpenCV
 4 <br/>
-TABLE NO. TABLE NAME PAGE NO.
+TABLE NO. TABLE NAME .
 3.1 <br/>
 Computer Vision in various fields
 and its applications
-4 <br/>
+<br/>
 
 ## CHAPTER I
 INTRODUCTION
