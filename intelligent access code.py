@@ -18,11 +18,11 @@ from ibm_watson import TextToSpeechV1
 
 from playsound import playsound
 #Provide your IBM Watson Device Credentials
-organization = "wk8zhy"
-deviceType = "RSIP"
-deviceId = "10110"
-authMethod = "token"
-authToken = "EmCee9932"
+organization = 
+deviceType = 
+deviceId = 
+authMethod = 
+authToken = 
 def myCommandCallback(cmd):
         print("Command received: %s" % cmd.data)
         print(cmd.data['command'])
@@ -50,8 +50,8 @@ visual_recognition = VisualRecognitionV3(
     version='2018-03-19',
     authenticator=authenticator1
 )
-visual_recognition.set_service_url('https://api.us-south.visual-recognition.watson.cloud.ibm.com/instances/6d315cce-6b35-43d4-a4c2-127c66dce577')
-client = Cloudant("4245f642-3442-4182-99d1-18383673c9aa-bluemix", "0a10750da8c7467d7253b8a599c907e6607e2a573961df25578282b30bb6347f", url="https://4245f642-3442-4182-99d1-18383673c9aa-bluemix:0a10750da8c7467d7253b8a599c907e6607e2a573961df25578282b30bb6347f@4245f642-3442-4182-99d1-18383673c9aa-bluemix.cloudantnosqldb.appdomain.cloud")
+visual_recognition.set_service_url(')
+client = Cloudant(")
 client.connect()
 database_name = "smartrecognition"
 picname=datetime.datetime.now().strftime("%y-%m-%d-%H-%M")
@@ -92,9 +92,9 @@ def multi_part_upload(bucket_name, item_name, file_path):
 cam = cv2.VideoCapture(0)
 cv2.namedWindow("Detection")
 
-authenticator = IAMAuthenticator('Cp5pWRCW5x0ZCTzCEciFWJHReTPGaJYtBKSKVcSKJwLV')
+authenticator = IAMAuthenticator('LV')
 text_to_speech = TextToSpeechV1(authenticator=authenticator)
-text_to_speech.set_service_url('https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/9f80d26e-e18e-433a-aae7-ccee0693fb29')
+text_to_speech.set_service_url('29')
 person=1
 global vy
 vy=0
