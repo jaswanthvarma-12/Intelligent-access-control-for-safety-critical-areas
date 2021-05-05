@@ -1,4 +1,4 @@
-# intelligent-access-control-for-safety-critical-areas
+# Intelligent-access-control-for-safety-critical-areas
 
 ## ABSTRACT
 In some industries, it is necessary for workers to wear safety helmet and shoes while working. So
