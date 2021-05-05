@@ -41,13 +41,13 @@ except Exception as e:
 	sys.exit()
 # Connect and send a datapoint "hello" with value "world" into the cloud as an event of type "greeting" 10 times
 deviceCli.connect()
-COS_ENDPOINT = "https://s3.jp-tok.cloud-object-storage.appdomain.cloud" # Current list avaiable at https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints
-COS_API_KEY_ID = "0r1Q3G0T5VS5fEoNKlCbVYWxLkWYi7MeQnnhJBvRUzY_" # eg "W00YiRnLW4a3fTjMB-oiB-2ySfTrFBIQQWanc--P3byk"
-COS_AUTH_ENDPOINT = "https://iam.cloud.ibm.com/identity/token"
-COS_RESOURCE_CRN = "crn:v1:bluemix:public:cloud-object-storage:global:a/61fbb0885ad945358fd3f70f049c1d84:20842b15-b746-469c-af7e-30ee83df189f::"
-authenticator1 = IAMAuthenticator('0r1Q3G0T5VS5fEoNKlCbVYWxLkWYi7MeQnnhJBvRUzY_')
+COS_ENDPOINT =  # Current list avaiable at https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints
+COS_API_KEY_ID = "" # eg "W00YiRnLW4a3fTjMB-oiB-2ySfTrFBIQQWanc--P3byk"
+COS_AUTH_ENDPOINT = ""
+COS_RESOURCE_CRN = "::"
+authenticator1 = IAMAuthenticator(')
 visual_recognition = VisualRecognitionV3(
-    version='2018-03-19',
+    version='',
     authenticator=authenticator1
 )
 visual_recognition.set_service_url(')
